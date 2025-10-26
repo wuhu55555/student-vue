@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆形 -->
+  <circle cx="16" cy="16" r="15" fill="#667eea"/>
+  
+  <!-- 书本/文件图标 -->
+  <rect x="8" y="10" width="16" height="12" rx="2" fill="white"/>
+  
+  <!-- 书本装饰线 -->
+  <line x1="12" y1="14" x2="20" y2="14" stroke="#667eea" stroke-width="2"/>
+  <line x1="12" y1="18" x2="20" y2="18" stroke="#667eea" stroke-width="2"/>
+  
+  <!-- 顶部标签 -->
+  <polygon points="14,10 15,8 17,8 18,10" fill="white"/>
+  
+  <!-- 学生/用户图标 -->
+  <circle cx="16" cy="18" r="2.5" fill="#667eea"/>
+</svg>
